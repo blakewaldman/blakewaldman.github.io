@@ -1,13 +1,15 @@
 # 💫 About Me:
-I'm a graduate from Case Western Reserve University where I earned a Bachelor of Science degree in Finance and Data Science, along with a minor in Economics. Currently, I am pursuing a Master of Business Analytics (MBAn) at the University of Michigan's Ross School of Business, a program that aligns perfectly with my passion for merging finance and data science to drive informed decisions.
+I am a recent graduate from Case Western Reserve University, where I majored in Finance and Data Science with a minor in Economics. My passion for blending finance and data science to make data-driven decisions has led me to continue my education. I am currently pursuing a Master of Business Analytics (MBAn) at the University of Michigan's Ross School of Business.
 
-During my time at Case Western, I had the opportunity to contribute as a teaching assistant in Statistics for Business and Management, leading weekly sessions covering diverse topics such as probability, graphing, data analysis, and hypothesis testing. My involvement extended to The Weatherhead Fund where I was the Technology Vertical Head, responsible for managing a significant portion of our portfolio and developing financial models that supported our buy-hold-sell decisions.
+During my undergraduate studies at Case Western, I served as a teaching assistant in Statistics for Business and Management. My responsibilities included leading weekly sessions on topics such as probability, graphing, data analysis, and hypothesis testing. I also held a leadership role as the Technology Vertical Head at The Weatherhead Fund. Here, I was entrusted with the management of a significant portion of our portfolio. My duties involved creating financial models to guide our buy-hold-sell recommendations.
 
-Furthermore, I held leadership positions within two prestigious fraternities, Alpha Kappa Psi and Zeta Beta Tau. These roles helped me nurture my leadership skills, strengthen my problem-solving capabilities, and refine my strategic planning abilities.
+Apart from this, I held leadership positions within two fraternities, Alpha Kappa Psi and Zeta Beta Tau. These experiences allowed me to develop and hone my skills in team management, problem-solving, and strategic planning.
 
-On the technical front, my skill set encompasses programming languages like Java, Python, R, SQL, and Javascript. I am also comfortable with using technical tools such as Google Suite, Microsoft Office, SPSS, NoSQL databases (MongoDB, Cassandra), and XML.
+In terms of technical skills, I am proficient in several programming languages including Java, Python, R, SQL, and Javascript. I also have experience using technical tools such as Google Suite, Microsoft Office, SPSS, NoSQL databases like MongoDB and Cassandra, and XML.
 
-Outside the sphere of academics and professional life, I enjoy hobbies like fishing, baking, and playing racket sports.
+Outside of academics and professional pursuits, I enjoy a variety of hobbies. Fishing and baking offer me a chance to unwind and relax, while playing racket sports allows me to stay physically active and competitive.
+
+Looking forward, I am excited about the opportunities to further develop my analytical abilities and to leverage the power of data in driving business decisions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blake-waldman) 
