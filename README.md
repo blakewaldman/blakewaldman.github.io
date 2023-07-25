@@ -1,13 +1,20 @@
 # 💫 About Me:
-I'm a senior at Case Western Reserve University, majoring in Finance and Data Science, with a minor in Economics. <br>Upon graduation, I'll be attending the University of Michigan to pursue a Master of Business Analytics (MBAn). My passion lies in blending finance and data science to make data-driven decisions.<br><br>As a teaching assistant in Statistics for Business and Management, I have led weekly sessions on topics like probability, graphing, data analysis, and hypothesis testing. As the Technology Vertical Head at The Weatherhead Fund, I've managed a significant portion of our portfolio, creating financial models to inform buy-hold-sell recommendations. Additionally, I have experience in leadership roles within my two fraternities, Alpha Kappa Psi and Zeta Beta Tau.<br><br>My skillset includes programming languages such as Java, Python, R, SQL, and Javascript. I am familiar with a variety of technical tools, including Google Suite, Microsoft Office, SPSS, NoSQL databases (e.g., MongoDB, Cassandra), and XML. In my free time, I enjoy fishing, baking, and playing racket sports.<br><br><br><br><br>
+I'm a graduate from Case Western Reserve University where I earned a Bachelor of Science degree in Finance and Data Science, along with a minor in Economics. Currently, I am pursuing a Master of Business Analytics (MBAn) at the University of Michigan's Ross School of Business, a program that aligns perfectly with my passion for merging finance and data science to drive informed decisions.
 
+During my time at Case Western, I had the opportunity to contribute as a teaching assistant in Statistics for Business and Management, leading weekly sessions covering diverse topics such as probability, graphing, data analysis, and hypothesis testing. My involvement extended to The Weatherhead Fund where I was the Technology Vertical Head, responsible for managing a significant portion of our portfolio and developing financial models that supported our buy-hold-sell decisions.
+
+Furthermore, I held leadership positions within two prestigious fraternities, Alpha Kappa Psi and Zeta Beta Tau. These roles helped me nurture my leadership skills, strengthen my problem-solving capabilities, and refine my strategic planning abilities.
+
+On the technical front, my skill set encompasses programming languages like Java, Python, R, SQL, and Javascript. I am also comfortable with using technical tools such as Google Suite, Microsoft Office, SPSS, NoSQL databases (MongoDB, Cassandra), and XML.
+
+Outside the sphere of academics and professional life, I enjoy hobbies like fishing, baking, and playing racket sports.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blake-waldman) 
 <br>How to reach me: **bwaldman01@gmail.com**
 
 ## 🔭📄 My work
-📌 I'm currently working on **DayBreak (A smart dashboard)** - Public link soon
+📌 I recently made a web application called **DayBreak (A smart dashboard)** - No Longer Publicly Accessible (Pictures Below)
 ![DayBreak](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Daybreak_Pictures.png)
 <br><br>📝 I recently wrote a paper on the potential impacts of **[Bias in Artificial Intelligence](https://github.com/blakewaldman/blakewaldman.github.io/blob/main/A_Study_on_Bias%20in_Artificial_Intelligence.pdf)**
 <br><br>📚 Learn about my experiences **(Resume)** ![Resume](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Blake%20Waldman%20Resume.png)
