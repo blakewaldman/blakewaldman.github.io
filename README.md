@@ -17,10 +17,7 @@ Looking forward, I am excited about the opportunities to further develop my anal
 
 ## 🔭📄 My work
 📌 I recently made a web application called **DayBreak (A smart dashboard)** - No Longer Publicly Accessible (Pictures Below)
-![DayBreak](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Daybreak%20-%20Presentation/Daybreak%20-%20Presentation-1.png)
-![DayBreak](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Daybreak%20-%20Presentation/Daybreak%20-%20Presentation-2.png)
-![DayBreak](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Daybreak%20-%20Presentation/Daybreak%20-%20Presentation-3.png)
-
+![DayBreak](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Daybreak%20-%20Presentation/Daybreak%20-%20Presentation.png)
 
 
 <br><br>📝 I recently wrote a paper on the potential impacts of **[Bias in Artificial Intelligence](https://github.com/blakewaldman/blakewaldman.github.io/blob/main/A_Study_on_Bias%20in_Artificial_Intelligence.pdf)**
