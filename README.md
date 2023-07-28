@@ -20,7 +20,7 @@ Looking forward, I am excited about the opportunities to further develop my anal
 > ***Abstract:*** In the digital era, efficient task management is crucial for productivity and user experience. Daybreak, a smart to-do list web application, enhances productivity by offering a personalized dashboard, weather information, and task management capabilities. Developed using React.js, Django, and SQLite, it provides a user-friendly interface for account creation, login, task management, reminders, and a calendar view. The dashboard displays user tasks, progress reports, and local weather information, with various tabs for specific features. The application aims to offer a seamless task management experience, improving productivity and user experience, while continuously evolving to meet user needs and adapt to the web application landscape.
 ![DayBreak](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Daybreak%20-%20Presentation.png)
 
-📝 I recently wrote a paper on the potential impacts of **[Bias in Artificial Intelligence](https://github.com/blakewaldman/blakewaldman.github.io/blob/main/A_Study_on_Bias%20in_Artificial_Intelligence.pdf)**
+<br> 📝 I recently wrote a paper on the potential impacts of **[Bias in Artificial Intelligence](https://github.com/blakewaldman/blakewaldman.github.io/blob/main/A_Study_on_Bias%20in_Artificial_Intelligence.pdf)**
 <br><br>📚 Learn about my experiences **(Resume)** 
 > ![Resume](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Blake%20Waldman%20Resume%20(Ross%20Template).png)
 
